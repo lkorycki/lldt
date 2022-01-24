@@ -30,7 +30,7 @@ future==0.18.2
 gast==0.3.3
 google==3.0.0
 google-api-core==1.23.0
-google-auth==1.20.1
+google-auth==1.21.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 googleapis-common-protos==1.52.0
@@ -96,7 +96,6 @@ soupsieve==2.0.1
 spacy==3.0.3
 spacy-legacy==3.0.1
 srsly==2.4.0
-streamhist===0.1.0.dev-7dc5169
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
 tensorflow==2.4.1
