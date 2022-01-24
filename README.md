@@ -21,7 +21,7 @@ Can be downloaded from: https://drive.google.com/drive/folders/1bNv8s3QXrZWMy1PT
 If you use TensorBoard: 
 
 ```
-tensorboard --logdir runs/er
+tensorboard --logdir runs/lldt
 ```
 
 Then:
