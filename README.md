@@ -18,7 +18,19 @@ Can be downloaded from: https://drive.google.com/drive/folders/1bNv8s3QXrZWMy1PT
 
 ### Run
 
+If you use TensorBoard: 
+
+```
+tensorboard --logdir runs/lldt
+```
+
+Then:
 ```
 python main.py
 ```
 
+### Results
+
+- CSV files can be found in *results*.
+
+- TensorBoard: http://localhost:6006/
