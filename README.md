@@ -34,3 +34,16 @@ python main.py
 - CSV files can be found in *results*.
 
 - TensorBoard: http://localhost:6006/
+
+### Citation
+```
+@InProceedings{Korycki:2021sdl,
+  author="Korycki, {\L}ukasz
+  and Krawczyk, Bartosz",
+  title="Streaming Decision Trees for Lifelong Learning",
+  booktitle="Machine Learning and Knowledge Discovery in Databases. Research Track",
+  year="2021",
+  pages="502--518",
+  isbn="978-3-030-86486-6"
+}
+```
