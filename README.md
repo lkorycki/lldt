@@ -38,7 +38,7 @@ python main.py
 ### Citation
 ```
 @InProceedings{Korycki:2021sdl,
-  author="Korycki, {\L}ukasz
+  author="Korycki, Lukasz
   and Krawczyk, Bartosz",
   title="Streaming Decision Trees for Lifelong Learning",
   booktitle="Machine Learning and Knowledge Discovery in Databases. Research Track",
